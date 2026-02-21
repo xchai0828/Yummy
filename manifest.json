@@ -1,0 +1,21 @@
+{
+  "name": "吮指原味机",
+  "short_name": "原味机",
+  "start_url": "./吮指原味机.html",
+  "display": "standalone",
+  "background_color": "#fdf6f7",
+  "theme_color": "#fdf6f7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
