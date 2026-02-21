@@ -1,7 +1,7 @@
 {
   "name": "吮指原味机",
   "short_name": "原味机",
-  "start_url": "./吮指原味机.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#fdf6f7",
   "theme_color": "#fdf6f7",
@@ -18,4 +18,5 @@
       "type": "image/png"
     }
   ]
+
 }
